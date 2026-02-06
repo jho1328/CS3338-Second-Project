@@ -1,0 +1,52 @@
+commit 39fbf4fcc9d6dd10a83adf6af8b4c0168c760449
+Merge: 93c62c4 8920d90
+Author: Justin Ho <justinho910@gmail.com>
+Date:   Thu Feb 5 19:33:58 2026 -0800
+
+    fixed merge conflict
+
+commit 93c62c491247882c75a5d646102b8eefa2d43c93
+Merge: 7df00e8 95a85bd
+Author: Justin Ho <justinho910@gmail.com>
+Date:   Thu Feb 5 19:28:10 2026 -0800
+
+    fixed merge conflict in index.html
+
+commit 95a85bdfe4480b6034959cd05db8cbc69e73c6d6
+Author: Justin Ho <justinho910@gmail.com>
+Date:   Thu Feb 5 19:21:11 2026 -0800
+
+    added new div abt fav movie
+
+commit 7df00e8de6af33004aafc20d7c59b2a1f88f9aaa
+Author: Justin Ho <justinho910@gmail.com>
+Date:   Thu Feb 5 19:19:10 2026 -0800
+
+    added new div abt fav food
+
+commit d7c71e565941bd38f890f75f6c9bb571874ccb95
+Author: Justin Ho <justinho910@gmail.com>
+Date:   Thu Feb 5 19:17:03 2026 -0800
+
+    added readme
+
+commit 8920d90bbb43e5e7f760ee2cdaf44afbfa94904a
+Merge: 1d2bfc0 32983b1
+Author: Justin Ho <121913306+jho1328@users.noreply.github.com>
+Date:   Thu Feb 5 19:15:36 2026 -0800
+
+    Merge pull request #1 from jho1328/info-fill
+    
+    filled in blanks on index.html
+
+commit 32983b1063e7b5f2e82e45b7b2a0b5b44f28e9a9
+Author: Justin Ho <justinho910@gmail.com>
+Date:   Thu Feb 5 19:08:33 2026 -0800
+
+    filled in blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
